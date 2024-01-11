@@ -1,1 +1,1 @@
-Faruq and Ahmed Readme file for simple_shell project
+Faruq and Ahmed Readme file for the simple shell project
